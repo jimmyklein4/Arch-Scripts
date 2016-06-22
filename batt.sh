@@ -1,4 +1,7 @@
 #!/bin/bash
+# For when you have two batteries in your computer
+# Combines most entries for both batteries into one so you can get a more accurate readout 
+# Make sure to create the folder ~/.BATT_TOTAL
 
 while true
 do
